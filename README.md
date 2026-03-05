@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="mailto:emanuelcamaerospace@gmail.com"><img src="https://img.shields.io/badge/Email-emanuelcamaerospace@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/emanuelcamacho/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Website-Personal-orange?style=flat-square&logo=google-chrome"></a>
+  <a href="https://www.linkedin.com/in/emanuel-camacho-05ab8a245"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://emanuelcamaerospace.github.io/website"><img src="https://img.shields.io/badge/Website-Personal-orange?style=flat-square&logo=google-chrome"></a>
 </p>
 
 ---
