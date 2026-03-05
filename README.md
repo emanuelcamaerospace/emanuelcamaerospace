@@ -79,4 +79,4 @@ Aerospace engineer with hands-on experience in **turbojet engines, UAS certifica
 
 ## ✨ Let's Connect
 I’m open to collaborations in **aerospace research, propulsion systems, and UAS technology**.  
-📫 Reach me at **emanuelcamaerospace@gmail.com** or [LinkedIn](https://www.linkedin.com/in/emanuelcamacho/)
+📫 Reach me at **emanuel1902191@gmail.com** or [LinkedIn](https://www.linkedin.com/in/emanuel-camacho-05ab8a245/)
