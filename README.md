@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emanuel1902191/emanuel1902191/main/banner.png" alt="Aerospace Engineering Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/emanuel1902191/emanuel1902191/main/banner.JPG" alt="Aerospace Engineering Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Emanuel Camacho</h1>
